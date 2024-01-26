@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.column{
+    float: left;   
+    width: 33.33%;
+    padding: 5px;
+    
+}
+.column img{
+    height: 300px;
+}
+.desc{
+    text-align: center;
+}
+.roww{
+    text-align: center;
+}
+img.hover-shadow{
+    transform: 0.3s;
+}
